@@ -1,7 +1,7 @@
-class four
+class Four1
 {
     public static void main(String args [])
     {
-        System.out.println("finMkt")
+        System.out.println("finMkt");
     }
 }
